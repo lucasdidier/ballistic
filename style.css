@@ -545,7 +545,21 @@ h3 {
   background-image: url("images/montpellier.jpg");
 }
 
+.dortmund {
+  background-image: url("images/dortmund.jpg");
+}
 
+.hoffenheim {
+  background-image: url("images/hoffenheim.jpg");
+}
+
+.benfica {
+  background-image: url("images/benfica.jpg");
+}
+
+.crvena-zvezda {
+  background-image: url("images/crvena-zvezda.jpg");
+}
 
 .scrolling-wrapper {
   overflow-x: scroll;
